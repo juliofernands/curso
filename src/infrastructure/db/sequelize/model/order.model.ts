@@ -1,5 +1,3 @@
-import "./associations";
-
 import {
   Table,
   Model,
